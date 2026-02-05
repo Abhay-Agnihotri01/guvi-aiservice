@@ -2,6 +2,7 @@ fastapi==0.109.0
 uvicorn[standard]==0.27.0
 pydantic==2.5.3
 python-multipart==0.0.6
+gradio==4.15.0
 
 # Audio Processing
 librosa==0.10.1

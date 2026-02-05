@@ -1,5 +1,0 @@
-speechbrain_cache/
-tmp_model/
-__pycache__/
-*.pyc
-.git/
