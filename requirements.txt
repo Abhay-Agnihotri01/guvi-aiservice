@@ -31,4 +31,3 @@ pydantic_settings
 langid==1.1.6
 speechbrain==0.5.15
 mnlp
-
